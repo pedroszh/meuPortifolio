@@ -18,6 +18,4 @@ AOS (Animate On Scroll): Animações em elementos durante o scroll.
 Particles.js: Efeitos visuais interativos de partículas.
 EmailJS: Integração para envio de emails via formulário de contato.
 Google Analytics & Meta Pixel: Análise de tráfego e conversões.
-=======
-# Portif-lio
->>>>>>> b40dc1f1b348fb2aedc1b67d637c05f04fc04691
+
