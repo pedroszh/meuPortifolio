@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap');
 
+  
+
 .loader {
     position: fixed;
     top: 0;
@@ -453,9 +455,9 @@ body {
 }
 
 .img-about img {
-    width: 200px;
-    height: 200px; 
-    border-radius: 50%; 
+    width: 400px;
+    height: 400px; 
+    border-radius: 50px; 
     object-fit: cover; 
     border: 5px solid #e4405f; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
