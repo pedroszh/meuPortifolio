@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📌 Sobre o Projeto
 Este projeto é o meu portfólio pessoal, desenvolvido para apresentar minhas habilidades e projetos como desenvolvedor front-end. Nele, você encontrará informações sobre mim, meus projetos mais recentes, e links para minhas redes sociais.
 
