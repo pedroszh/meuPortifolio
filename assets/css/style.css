@@ -165,8 +165,23 @@ body {
 }
 
 .logo {
-    font-size: 1.2rem;
-    font-weight: bold;
+    display: flex;
+    align-items: flex-end;
+    gap: 10px; 
+}
+
+.logo-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    transform: translate(-3px);
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    line-height: 1.2; 
 }
 
 .destaque {
@@ -455,12 +470,12 @@ body {
 }
 
 .img-about img {
-    width: 400px;
-    height: 400px; 
+    width: 500px;
+    height: 500px; 
     border-radius: 50px; 
     object-fit: cover; 
     border: 5px solid #e4405f; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Estilos base para o ícone do chevron */

@@ -51,10 +51,17 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
+        padding: 20px;
+        position: relative;
+        left: -27px;
     }
 
     .img-about img {
-        width: 100%;
+        width: 400px;
+        height: 400px;
+        overflow: hidden;
+        border-radius: 10px;
     }
 
     .content-about-left h1 {
